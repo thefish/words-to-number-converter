@@ -4,4 +4,4 @@ A better PHP Words to number converter, answer to https://stackoverflow.com/ques
 
 Originally was used to minimize postal addresses written in English.
 
-Please use [issues](https://github.com/thefish/words-to-number-converter/issues), if it does not work in your case
+Please use [issues](https://github.com/thefish/words-to-number-converter/issues), if it does not work in your case.
