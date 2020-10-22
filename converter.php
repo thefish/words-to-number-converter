@@ -70,7 +70,6 @@ class Converter {
             'million'     => ['val' => '1000000', 'power' => 1000000],
             'billion'     => ['val' => '1000000000', 'power' => 1000000000],
             'and'           => ['val' => '', 'power' => null],
-            '-'           => ['val' => '', 'power' => null],
         ];
         $powers = array_column($tokens, 'power', 'val');
 
